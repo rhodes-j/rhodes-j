@@ -7,7 +7,6 @@ By day I'm a Manager at Bain & Company, where I've shipped LLM-powered products 
 ## What I'm working on
 
 - **Research Agent** — agentic research tool using Claude API with native tool use, Brave Search via MCP, and arXiv integration. Iterative reasoning loop with confidence-based conflict resolution. *(shipping soon)*
-- **OpenClaw** — personal AI agent with WhatsApp integration. Qwen handles fast local routing; Claude handles complex tasks via the Anthropic API. Manages calendar, books travel, tracks action items.
 
 ## Links
 
